@@ -1,9 +1,16 @@
 body {
+    display: block;
+    margin: 0 auto;
     background-color: #db3760;
+    max-width: 1000px;
 }
 
 p, h1, h2 {
     text-align: center;
+}
+
+p {
+    color: rgb(225, 199, 235);
 }
 
 a {
